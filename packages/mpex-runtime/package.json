@@ -28,5 +28,8 @@
   },
   "bugs": {
     "url": "https://github.com/didi/mpx/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
   }
 }
